@@ -3,6 +3,6 @@
 <plist version="1.0">
 <dict>
 	<key>URL</key>
-	<string>https://github.com/ApolloTang/wf-backend-with-webpack-explained</string>
+	<string>https://github.com/ApolloTang/wf-why-webpack-express-need-to-exclude-node-modules</string>
 </dict>
 </plist>
